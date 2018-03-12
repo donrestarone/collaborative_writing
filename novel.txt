@@ -17,3 +17,5 @@ Its actually, Sanic. That was the original meme
 *click* *click* *click* *click*
 *click* *click* *click* *click*
 *click* *click* *click* *click*
+
+lets write a ruby program to count the clicks above. 
